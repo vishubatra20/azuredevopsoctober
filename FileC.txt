@@ -1,2 +1,8 @@
 This is file C
+<<<<<<< HEAD
 Lets make a change
+=======
+Lets make a change wsdfefe
+making another change 17:59
+This is for squash mergeddcdcd
+>>>>>>> FeatureA
